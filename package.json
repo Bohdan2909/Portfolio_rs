@@ -1,0 +1,20 @@
+{
+  "name": "portfolio_rs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "style": "sass --watch sass/style.scss sass/style.css",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bohdan2909/Portfolio_rs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bohdan2909/Portfolio_rs/issues"
+  },
+  "homepage": "https://github.com/Bohdan2909/Portfolio_rs#readme"
+}
